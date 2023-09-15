@@ -1,4 +1,7 @@
-﻿Console.Write("Введите R1: ");
+// Высокий уровень
+// Вариант 13
+
+Console.Write("Введите R1: ");
 double R1 = double.Parse(Console.ReadLine());
 
 Console.Write("Введите R2: ");
